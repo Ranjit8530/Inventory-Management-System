@@ -1,6 +1,5 @@
 # Simple Inventory Management System (Spring Boot + MySQL)
 
-This is a **beginner-friendly backend** with clear layering and interview-friendly logic.
 
 ## 1) System Flow (step-by-step)
 
