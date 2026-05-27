@@ -127,7 +127,7 @@ Because stock update + transaction insert are in one DB transaction:
 
 ## 6) Why polling instead of push notifications?
 
-- Simpler for students and interview explanation.
+- Simpler
 - No WebSocket/SSE server complexity.
 - Frontend calls `/inventory/alerts` on login/refresh or periodic timer.
 - Good enough when alert freshness requirements are not real-time.
